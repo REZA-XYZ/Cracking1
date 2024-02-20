@@ -17,7 +17,7 @@ $ pip install rich
 
 $ pip install mechanize
 
-$ git clone https://github.com/KING-localhost/BRUTEFB.git
+$ git clone https://github.com/Reza-XD/Cracking1
 
 $ cd mrfbx
 
