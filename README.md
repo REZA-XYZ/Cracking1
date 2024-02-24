@@ -24,5 +24,5 @@ $ cd mrfbx
 
 $ git pull
 
-$ python mrfbx
+$ python mrfbx.py
 ```
