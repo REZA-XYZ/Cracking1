@@ -1,27 +1,28 @@
+FBMULTI CRACKING Tools Facebook Indonesia Crack
+
+Cara install dan jalankan
 ```bash
-$ pkg pkg update && upgrade
+$ pkg update && pkg upgrade
 
-$ pkg install python
+$ pkg install python git
 
-$ pkg install pip
-
-$ pkg install git
-
-$ pip install stdiomask
-
-$ pip install requests
-
-$ pip install bs4
+$ pip install requests bs4 futures
 
 $ pip install rich
 
+$ pip install requests
+
 $ pip install mechanize
 
-$ git clone https://github.com/Reza-XD/Cracking1
+$ pip install bs4
+
+$ pip install pycryptodome
+
+$ git clone https://github.com/Reza-XD/Craxcking1
 
 $ cd mrfbx
 
-$ pip install -r requirements.txt
+$ git pull
 
-$ python mrfbx.py
+$ python mrfbx
 ```
