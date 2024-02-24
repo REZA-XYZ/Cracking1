@@ -1,6 +1,3 @@
-FBMULTI CRACKING Tools Facebook Indonesia Crack
-
-Cara install dan jalankan
 ```bash
 $ pkg update && pkg upgrade
 
