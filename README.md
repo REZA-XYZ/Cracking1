@@ -17,9 +17,9 @@ $ pip install pycryptodome
 
 $ git clone https://github.com/Reza-XD/Craxcking1
 
-$ cd mrfbx
+$ cd mrfbz
 
 $ git pull
 
-$ python mrfbx.py
+$ python mrfbz.py
 ```
