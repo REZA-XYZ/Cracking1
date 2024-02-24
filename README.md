@@ -19,9 +19,9 @@ $ pip install mechanize
 
 $ git clone https://github.com/Reza-XD/Cracking1
 
-$ ls
-
 $ cd mrfbx
+
+$ pip install -r requirements.txt
 
 $ python mrfbx.py
 ```
