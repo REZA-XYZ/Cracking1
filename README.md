@@ -15,7 +15,7 @@ $ pip install bs4
 
 $ pip install pycryptodome
 
-$ git clone https://github.com/Reza-XD/Craxcking1
+$ git clone https://github.com/REZA-XYZ/Craxcking1
 
 $ cd mrfbz
 
